@@ -1,0 +1,6 @@
+{
+  "name": "PersonalBrand AI",
+  "description": "AI LinkedIn strategist, career coach, and content generator for establishing a high-performing professional profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
